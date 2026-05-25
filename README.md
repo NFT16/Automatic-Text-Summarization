@@ -92,7 +92,6 @@ NLTK data (punkt, stopwords, wordnet, etc.) downloads automatically on first run
 - **Extractive only**: summaries are stitched sentences from the original text. No paraphrasing or abstraction.
 - **English only**: preprocessing (stopwords, lemmatization) is configured for English.
 - **Short texts**: fewer than 3 sentences will be returned as-is without summarization.
-- **No evaluation metric**: ROUGE score or similar is not included to quantify summary quality.
 
 ---
 
